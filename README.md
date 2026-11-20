@@ -180,10 +180,6 @@ Finolex Academy of Management and Technology, Ratnagiri
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tribalchiefcoder&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Tribalchiefcoder&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
-
 ---
 
 ## 🎯 Currently Focused On
