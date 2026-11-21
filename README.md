@@ -1,3 +1,4 @@
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=120&section=header"/>
 
 <h1 align="center">SUMEDH VARADKAR</h1>
@@ -12,6 +13,12 @@
 
 <p align="center">
   <i>Turning ideas into code and code into solutions.</i>
+</p>
+
+<p align="center">
+  <a href="https://sumedh-varadkar-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/VIEW_MY_PORTFOLIO-1f6feb?style=for-the-badge&logo=vercel&logoColor=white" alt="View My Portfolio" />
+  </a>
 </p>
 
 ---
@@ -44,11 +51,17 @@
 ## `[ 03 ] CONNECT`
 
 <p align="center">
+  <a href="https://sumedh-varadkar-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="mailto:sumedhvaradkar09@gmail.com">
     <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff" alt="Email" />
   </a>
   <a href="https://github.com/Tribalchiefcoder">
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/sumedh-varadkar-38275a2a6/">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn" />
   </a>
 </p>
 
